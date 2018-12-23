@@ -40,3 +40,4 @@ ENDMACRO()
 
 add_example(Example_2-1)
 add_example(Example_2-2)
+add_example(Example_2-3)
